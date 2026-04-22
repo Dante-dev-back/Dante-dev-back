@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Dante Dev</h1>
 <h3 align="center">Apasionado en programación</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
