@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Daniel Peralta (Dante Dev)</h1>
+<h1 align="center">Hola, soy Daniel Peralta</h1>
 
 <p align="center">
 Estudiante de Ingeniería de Software en la UTP, buscando una práctica
