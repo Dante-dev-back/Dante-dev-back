@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Daniel Peralta</h1>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Sobre mi
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Sobre mí
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
@@ -40,5 +40,6 @@ Mrs. Green Spoon: plataforma web de rescate y pedido de alimentos (proyecto acad
 
 ## Contacto
 
-- LinkedIn: https://www.linkedin.com/in/daniel-peralta-escurra
-- Correo: daniel.peralta.escurra@gmail.com
+<a href="https://www.linkedin.com/in/daniel-peralta-escurra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:daniel.peralta.escurra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+
