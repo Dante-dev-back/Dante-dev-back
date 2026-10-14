@@ -1,6 +1,8 @@
 <h1 align="center">Hola, soy Daniel Peralta</h1>
 
-<p align="center">
+## <img src="TU_ENLACE_GIPHY" width="30px"> Sobre mí
+
+<img align="right" width="300px" alt="Animación" src="TU_ENLACE_TENOR" />
 Estudiante de Ingeniería de Software en la UTP, buscando una práctica
 pre-profesional en desarrollo de software.
  </p>
