@@ -14,8 +14,6 @@ En la universidad he trabajado con:
 - **Git y GitHub:** control de versiones y trabajo en equipo.
   
 Disponible para realizar prácticas pre-profesionales en desarrollo de software.
-
-  
  </p>
 
 
