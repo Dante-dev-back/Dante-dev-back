@@ -1,12 +1,24 @@
 <h1 align="center">Hola, soy Daniel Peralta</h1>
 
-## <img src="TU_ENLACE_GIPHY" width="30px"> Sobre mí
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Sobre mi
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-Estudiante de Ingeniería de Software en la UTP, buscando una práctica
-pre-profesional en desarrollo de software.
+
+ Soy estudiante de Ingeniería de Software en la UTP (5.° ciclo) y me apasiona construir aplicaciones que resuelvan problemas reales.
+
+En la universidad he trabajado con:
+
+- **Java:** programación orientada a objetos.
+- **HTML, CSS y JavaScript:** desarrollo web e interfaces que consumen APIs con `fetch`.
+- **Bases de datos:** modelado relacional y consultas en SQL con MySQL, PostgreSQL y SQL Server.
+- **Git y GitHub:** control de versiones y trabajo en equipo.
+  
+Disponible para realizar prácticas pre-profesionales en desarrollo de software.
+
+  
  </p>
- 
+
+
  ---
 
 ## Tecnologías con las que trabajo
