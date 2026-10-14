@@ -3,8 +3,8 @@
 <p align="center">
 Estudiante de Ingeniería de Software en la UTP, buscando una práctica
 pre-profesional en desarrollo de software.
-</p>
-## ---
+## </p>
+ ---
 
 ## Tecnologías con las que trabajo
 
