@@ -2,7 +2,7 @@
 
 ## <img src="TU_ENLACE_GIPHY" width="30px"> Sobre mí
 
-<img align="right" width="300px" alt="Animación" src="TU_ENLACE_TENOR" />
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 Estudiante de Ingeniería de Software en la UTP, buscando una práctica
 pre-profesional en desarrollo de software.
  </p>
