@@ -25,7 +25,7 @@ Disponible para realizar prácticas pre-profesionales en desarrollo de software.
   <img src="https://skillicons.dev/icons?i=html,css,js,java,postgres,mysql,git,github" />
 </p>
 
-También: SQL Server, Power BI y Excel.
+También: SQL Server, Power BI, Excel, JUnit y Maven
 
 ## Proyectos
 
