@@ -27,14 +27,22 @@ Disponible para realizar prácticas pre-profesionales en desarrollo de software.
 
 También: SQL Server, Power BI y Excel.
 
-## Proyecto
+## Proyectos
 
-Mrs. Green Spoon: plataforma web de rescate y pedido de alimentos (proyecto académico en equipo).
-
+**Mrs. Green Spoon**: plataforma web de rescate y pedido de alimentos (proyecto académico en equipo).
 - Desarrollé la página de pedidos (HTML, CSS y JavaScript con fetch).
 - Diseñé el modelo de datos relacional inicial en MySQL (luego migrado a PostgreSQL por el equipo).
 - Mi fork: https://github.com/Dante-dev-back/Proyecto_Final_Programacion_WEB
 - Repositorio del equipo: https://github.com/DiegoVCH01/Proyecto_Final_Programacion_WEB
+
+**Sistema de inventario para almacén (Java)** · [Repositorio](https://github.com/Dante-dev-back/sistema-inventario-java)
+
+Aplicación de consola para controlar el stock de un almacén, con alertas de stock bajo, agotados y vencimientos, reportes y guardado en CSV.
+- POO: clase abstracta, herencia, polimorfismo, interfaz y excepciones personalizadas.
+- Streams, persistencia en CSV y pruebas unitarias con JUnit 5.
+
+## Actualmente aprendiendo
+JDBC, Spring y Spring Boot.
 
 ## Contacto
 
